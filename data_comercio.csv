@@ -1,4 +1,4 @@
-"","cliente_id","categoria","monto_gastado","num_compras","ultima_compra"
+"","cliente_id","categoria","importe_gastado","num_articulos","ultima_compra"
 "1","C1","Alimentos",178.83,8,2022-08-08
 "2","C2","Alimentos",382.01,2,2023-11-23
 "3","C3","Ropa",425.32,5,2022-08-10
